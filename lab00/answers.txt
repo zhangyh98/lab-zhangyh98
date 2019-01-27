@@ -1,3 +1,7 @@
+mv(1)
+chmod(1)
+pwd(1)
+ping(1)
 find(1)
 top(1)
 kill(1)
