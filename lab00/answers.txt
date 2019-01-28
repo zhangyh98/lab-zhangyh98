@@ -1,3 +1,4 @@
+ls
 find(1)
 top(1)
 kill(1)
