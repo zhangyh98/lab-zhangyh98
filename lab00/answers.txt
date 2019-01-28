@@ -1,9 +1,0 @@
-mv(1)
-chmod(1)
-pwd(1)
-ping(1)
-ls
-find(1)
-top(1)
-kill(1)
-cmp(1)/ diff(1)
